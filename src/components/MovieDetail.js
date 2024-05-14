@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'; // Import Link from React Router
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faImdb } from '@fortawesome/free-brands-svg-icons'
 import { faYoutube } from '@fortawesome/free-brands-svg-icons'
-const apiKey = 'AIzaSyA074EG6rNk95N0b8odIeN_dcvls45JLqI'; // YOUTUBE API key
+const apiKey = ''; // YOUTUBE API key
 
 function MovieDetail({ movie }) {
     return (
